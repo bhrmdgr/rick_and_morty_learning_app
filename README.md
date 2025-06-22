@@ -4,8 +4,8 @@
 
 ## 🚀 Features
 
-- 🔍 List all characters
-- 🖼️ Display character images and basic details
+- 🔍 List all characters.
+- 🖼️ Display character images and basic details.
 - 🧠 Built with a simple and clean Flutter structure
 - 🧪 Demonstrates the use of basic widgets, page navigation, and HTTP requests
 
