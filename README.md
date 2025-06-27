@@ -4,7 +4,7 @@
 
 ## 🚀 Features
 
-- 🔍 List all characters
+- 🔍 List all characters.
 - 🖼️ Display character images and basic details
 - 🧪 Demonstrates the use of basic widgets, page navigation, and HTTP requests
 
